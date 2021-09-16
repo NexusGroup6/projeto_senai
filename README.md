@@ -3,7 +3,7 @@
 	🚧  Site_Senai 🚀 Completo ✅
 </h4>
 <p align="center">Site feito para estudo de NodeJS usando o Site do Senai como base </p>
-<p align="center"> Projeto organizado no trello usando o metodo kanban pelo grupo Nexus </p>
+<p align="center"> Projeto organizado no trello usando o método kanban pelo grupo Nexus </p>
 
 Tabela de conteúdos
 =================
