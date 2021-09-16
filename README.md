@@ -8,7 +8,6 @@
 Tabela de conteúdos
 =================
 <!--ts-->
-   * Features
    * Pré-Requisitos
    * Tecnologias
    * Site
