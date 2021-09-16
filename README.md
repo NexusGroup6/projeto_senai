@@ -37,6 +37,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## Site 
 
+<h1 align="center">
+  <img alt="imagem" title="#imagem" src="imagens/site.png" />
+</h1>
+
+
 ## 👨‍💻 Contribuidores
 
 Vitor Benedito - Paulo Rondon -
