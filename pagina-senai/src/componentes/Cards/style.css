@@ -1,0 +1,32 @@
+.cards-container1 {
+    border: 1px solid #d5d5d5;
+    border-radius: 15px;
+    background-image: linear-gradient(90deg, #F00000, #DC281E);
+    margin: 10px;
+    padding: 15px;
+    color: white;
+    font-size: 17px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#img1 {
+    border-radius: 10px;
+}
+
+#botao1 {
+    background-color: white;
+    padding: 15px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 10px;
+    text-align: center;
+    align-items: center;
+    margin-left: 50%;
+    transform: translate(-50%, 0%);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+}
+#botao1:hover {
+    background-color: greenyellow;
+}
