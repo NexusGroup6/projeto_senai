@@ -14,9 +14,7 @@ Tabela de conteúdos
    * Contribuidores 
 <!--te-->
 
-<h2>Features</h2>
 
-- []
 
 ### Pré-requisitos
 
