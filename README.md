@@ -24,7 +24,7 @@ Tabela de conteúdos
 Antes de começar, você irá precisar ter instalado em sua máquina a seguinte ferramenta:
 [Git](https://git-scm.com). 
 Além disto é recomendável utilizar um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
-É tambem foi usado o [NodeJS](https://nodejs.org/pt-br/download/)
+E tambem foi usado o [NodeJS](https://nodejs.org/pt-br/download/)
 
 ### 🛠 Tecnologias
 
